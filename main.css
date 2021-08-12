@@ -1,0 +1,11 @@
+#baslık,#altbaslık{
+    color:rgba(200,0,0,1);
+    font-size: 20px;
+}
+
+body {
+    background-image: url(./1231762.jpg);
+    
+    background-position: 55%;
+  }
+  
